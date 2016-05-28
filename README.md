@@ -1,6 +1,8 @@
 # VNPet
 Sưu tầm by toviethoang
-mở tệp VNPet-master
+mở tệp VNPet-master.zip
+
+sau đó mở file VNPet-master
 
 copy file pets-master trong file VNpet-master
 
